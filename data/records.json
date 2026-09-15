@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-14T13:39:49.960215",
+  "fetched_at": "2026-09-15T12:31:53.168214",
   "source": "Duval County Clerk of Courts",
   "date_range": {
-    "start": "2026-08-31",
-    "end": "2026-09-14"
+    "start": "2026-09-01",
+    "end": "2026-09-15"
   },
   "total": 0,
   "with_address": 0,
